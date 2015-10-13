@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	width: 800px;
+	height: 700px;
+}
+
+.leftBar {
+	background-color: #7aadff;
+	height: 100%;
+	width: 33.3%;
+  float: left;
+}
+
+.middleBar {
+  background-color: #8ff7ee;
+	height: 100%;
+	width: 33.3%;
+  float: left;
+}
+
+.rightUpperBar {
+  background-color: #caf9ae;
+	height: 80%;
+	width: 33.3%;
+  float: left;
+}
+
+.bottomImage {
+  background-color: red;
+	height: 20%;
+	width: 33.3%;
+  float: left;
+}
+
+#centerText {
+  color: white;
+  font-size: 1.5em;
+  text-align: center;
+  padding-top: 35px;
+}
