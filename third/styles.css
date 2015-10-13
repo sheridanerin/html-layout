@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  width: 900px;
+  height: 700px;
+}
+
+.topBar {
+  width: 100%;
+  height: 15%;
+  background-color: #d6d6d6;
+}
+
+.blueIcon {
+  height: 85px;
+  width: 85px;
+  background-color: #5894d3;
+  margin: -95px 0px 0px 20px;
+}
+
+.content {
+  width: 100%;
+  height: 25%;
+}
+
+#contentText {
+  text-align: left;
+  padding: 30px 40px;
+  font-family: sans-serif;
+  font-size: 1.2em;
+}
+
+.blueBar {
+  width: 100%;
+  height: 15%;
+  background-color: #5894d3;
+}
+
+.turquoiseBar {
+  width: 100%;
+  height: 15%;
+  background-color: #18f2d1;
+}
+
+.yellowBar1 {
+  width: 100%;
+  height: 15%;
+  background-color: #cfe17b;
+}
+
+.yellowBar2 {
+  width: 100%;
+  height: 15%;
+  background-color: #f7e842;
+}
+
